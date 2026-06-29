@@ -1,18 +1,22 @@
 {
-    "semana": 26,
-    "idProyecto": "202610",
-    "numeroEmpleado": "310278",
-    "nombreEmpleado": "PEDROZA VILCHIS FELICITAS",
-    "puestoEmpleado": "COORDINADOR UNIDAD AVANTE",
-    "baseCobranza": "436289",
-    "cobranzaAlCierre": "206797",
-    "mejora": "-52.600",
-    "compensación": "6429",
-    "fija": "6000",
-    "variable": "429",
-    "tipoNomina": "OPERACION",
-    "consultor": null,
-    "coordinador": null,
-    "director": null,
-    "estatus": "PENDIENTE"
+  "gets": [
+    {
+      "semana": 26,
+      "idProyecto": "202610",
+      "numeroEmpleado": "310278",
+      "nombreEmpleado": "PEDROZA VILCHIS FELICITAS",
+      "puestoEmpleado": "COORDINADOR UNIDAD AVANTE",
+      "baseCobranza": "436289",
+      "cobranzaAlCierre": "206797",
+      "mejora": "-52.600",
+      "compensación": "6429",
+      "fija": "6000",
+      "variable": "429",
+      "tipoNomina": "OPERACION",
+      "consultor": null,
+      "coordinador": null,
+      "director": null,
+      "estatus": "PENDIENTE"
+    }
+  ]
 }
